@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mansch404
 - 👀 I’m interested in Web- and App-Development.
 - 📫 How to reach me: mansch404@gmail.com
+- Founder of **Flits**
 
 <!---
 mansch404/mansch404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
